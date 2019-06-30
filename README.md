@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# zhengsheng.github.io
+# zhengshengwei.github.io
 github pages
-=======
+
 # jekyll-bootstrap4
 Bootstrap 4 with Jekyll example site. 
 
@@ -24,4 +23,3 @@ Happy Jekylling!
 <hr>
 
 Video generating this repo available at: [![asciicast](https://asciinema.org/a/198975.png)](https://asciinema.org/a/198975)
->>>>>>> add new template
