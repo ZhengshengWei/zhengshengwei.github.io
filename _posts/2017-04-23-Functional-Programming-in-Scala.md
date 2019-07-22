@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "笔记：Functional Programming in Scala"
+title: "笔记：Functional Programming in Scala(facai)"
 description: ""
 category: tech
 tags: []
-modify: 2017-06-23 09:55:59
+modify: 2019-07-23 09:55:59
 ---
 
 update: 2017-06-23
