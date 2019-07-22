@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 收藏
-permalink: /about/
 ---
 
 update: 2019-01-01
