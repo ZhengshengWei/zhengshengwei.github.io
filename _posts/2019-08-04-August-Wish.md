@@ -16,5 +16,5 @@ modify: 2019-08-04 15:10:00
 + [0/100] 完成驾校模拟题
 + [0/2] The Great Gatsby
 + [2/27] 俯卧撑
-+ [1/27] 每晚为 Jujube 读三首诗.(Tagore、北岛、Don McLean)
++ [2/27] 每晚为 Jujube 读三首诗.(Tagore、北岛、Don McLean)
 + [2/27] 练琴：基本功；Vincent；You've got a friend in me
