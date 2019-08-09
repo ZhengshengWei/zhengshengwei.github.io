@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dcb2ab4-632c-4634-a104-060462041fbd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-04-August-Wish.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-04-August-Wish.md" afterDir="false" />
-    </list>
+    <list default="true" id="0dcb2ab4-632c-4634-a104-060462041fbd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -328,11 +326,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38146000" />
+    <option name="totallyTimeSpent" value="38360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Palette" />
