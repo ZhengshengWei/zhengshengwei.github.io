@@ -14,6 +14,6 @@ modify: 2021-02-01 12:00:00
 + [0/x] Neural Network Architecture Review(Attention, Transformer, Deep & Wide, LSTM, GRU .......)
 + [3/18] CS229 Learning
 + [3/18] CS230 Learning
-+ [3/20] Fitness: Push Ups, Sit ups
++ [4/20] Fitness: Push Ups, Sit ups
 + [0/1] Lyric / Pieces Creation
-+ [3/20] Piano practice (Bebop，blues....)
++ [4/20] Piano practice (Bebop，blues....)
