@@ -16,4 +16,4 @@ modify: 2021-02-01 12:00:00
 + [3/18] CS230 Learning
 + [4/20] Fitness: Push Ups, Sit ups
 + [0/1] Lyric / Pieces Creation
-+ [4/20] Piano practice (Bebop，blues....)
++ [5/20] Piano practice (Bebop，blues....)
