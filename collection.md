@@ -16,6 +16,9 @@ update: 2021-03-09
   - [The Croods: New Age]():
   - [The Last Dance(about Chicago Bulls)]():
   - [发财日记]
+  - [Minari]():Story about an immigrant korean family pursuing American dream and love.  
++ videos
+  - []():
 + books
   - [N/A](): 
 + media/course:
