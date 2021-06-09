@@ -23,7 +23,8 @@ update: 2021-03-09
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
 + books
-  - [N/A](): 
+  - [The PayPal Wars](): to read 
+  - [HWW: Product Manager of Internet in TsingHua](): to read 
 + media/course:
   - [Politics and Power in today's world by Yale]():
 + app/server
