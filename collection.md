@@ -17,8 +17,10 @@ update: 2021-03-09
   - [发财日记]
   - [Minari]():Story about an immigrant korean family pursuing American dream and love.
   - [Raya and The Last Drogon]():
-  - [Togo]();
-  - [The Father]();  
+  - [Togo]():
+  - [The Father]():
+  - [Cruella]():Story about revenge
+  - [In the Height](): Story about life of race from Dominic Republic in USA  
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
