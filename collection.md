@@ -27,6 +27,7 @@ update: 2021-03-09
 + books
   - [The PayPal Wars](): to read 
   - [HWW: Product Manager of Internet in TsingHua](): to read 
+  - [Biography of Benjamin Franklin](): to read 
 + media/course:
   - [Politics and Power in today's world by Yale]():
 + app/server
