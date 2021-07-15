@@ -21,6 +21,12 @@ update: 2021-03-09
   - [The Father]():
   - [Cruella]():Story about revenge
   - [In the Height](): Story about life of race from Dominic Republic in USA  
+  - [Black Widow]():   
+  - [The Father of Legency]():
+  - [Luca]():Story about fishing-man
+  - [The Tomorrow War]():
+  - [Wrath of Man]():
+  - [Out of Death]():
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
