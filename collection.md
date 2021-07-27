@@ -35,7 +35,7 @@ update: 2021-03-09
   - [营销管理](): to read 
   - [马克 安德森的博客](pmarchive.com): to read 
   - [The PayPal Wars](): to read 
-  - [HWW: Product Manager of Internet in TsingHua](): to read 
+  - [HWW: Product Manage of Internet in TsingHua](): Sense about Internet Product Evolving.  
   - [Biography of Benjamin Franklin](): to read 
 + media/course:
   - [Politics and Power in today's world by Yale]():
