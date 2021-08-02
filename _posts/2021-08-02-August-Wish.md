@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "2021年七月愿望清单"
+title: "2021年八月愿望清单"
 description: ""
 category: life
 tags: []
-modify: 2021-07-01 11:07:00
+modify: 2021-08-02 11:07:00
 ---
 
 
@@ -15,7 +15,7 @@ modify: 2021-07-01 11:07:00
 + [1/18] CS229 Learning
 + [0/18] CS230 Learning
 + [0/18] CS224 Learning
-+ [17/18] Fitness: Push Ups, Sit ups
++ [1/20] Fitness: Push Ups, Sit ups
 + [0/1] Lyric / Pieces Creation
-+ [20/18] Piano practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; triplets, 8th
++ [1/20] Piano practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; triplets, 8th
  notes, walking bass[2-5-1], ....)
