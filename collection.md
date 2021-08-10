@@ -27,6 +27,7 @@ update: 2021-03-09
   - [The Tomorrow War]():
   - [Wrath of Man]():
   - [Out of Death]():
+  - [The Suicide Squad]():
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
@@ -35,8 +36,9 @@ update: 2021-03-09
   - [营销管理](): to read 
   - [马克 安德森的博客](pmarchive.com): to read 
   - [The PayPal Wars](): to read 
-  - [HWW: Product Manage of Internet in TsingHua](): Sense about Internet Product Evolving.  
   - [Biography of Benjamin Franklin](): to read 
+  - [Early Retirement Extreme: A Philosophical and Practical Guide to Financial Independence](): to read 
+  - [HWW: Product Manage of Internet in TsingHua](): Sense about Internet Product Evolving.  
 + media/course:
   - [Politics and Power in today's world by Yale]():
 + app/server
