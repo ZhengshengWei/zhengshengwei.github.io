@@ -28,6 +28,7 @@ update: 2021-03-09
   - [Wrath of Man]():
   - [Out of Death]():
   - [The Suicide Squad]():
+  - [Jungle Cruise]():
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
