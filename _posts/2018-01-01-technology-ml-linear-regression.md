@@ -21,7 +21,7 @@ modify: 2016-01-01 00:00:00
    Our goal is that choose optimized θ to minimized square difference (error). And optimized θ 
  makes hypothesis or model work finally. 
  
- Refer to [CS229 - Linear Regression] (https://www.youtube.com/watch?v=4b4MUYve_U8&)
+ Refer to [CS229 - Linear Regression](https://www.youtube.com/watch?v=4b4MUYve_U8&)
    
    
        
