@@ -30,12 +30,15 @@ in machine learning(Logistic Regression, Neural Networks etc.). Normal equation 
 θ = θ - α * (hθ(x) - y) * x.
    
    How many patterns of gradient decent?
-   1. Batch gradient decent
-   2. Stochastic gradient decent
-   3. Smooth Stochastic gradient decent
+   1. Batch gradient decent (if training examples is too large, iteration will be slowly)
+   2. Stochastic gradient decent (very efficient for large training examples)
+   3. Smooth Stochastic gradient decent (alpha will be decreased gradually as iteration increasing)
  
    At last, let 's look at the problem proposed before. Why we choose square error rather than 
-absolute error or error to power 4?
+absolute error or error to power 4 or square root of error?
+   The answer is function of square error has the only one maximum or minimum value than others. 
+So it's easy to find the global optimal θ by this cost function. If we choose other cost 
+function, we'll be stuck in the local optimal θ sometimes and hard to get the fine destination.  
  
  Refer to [CS229 - Linear Regression](https://www.youtube.com/watch?v=4b4MUYve_U8&)
    
