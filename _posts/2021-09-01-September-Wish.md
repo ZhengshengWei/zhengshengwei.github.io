@@ -12,10 +12,10 @@ modify: 2021-09-01 10:28:00
 
 + [0/3] NN Review (tensorflow)
 + [0/x] Neural Network Architecture Review(Attention, Transformer, Deep & Wide, LSTM, GRU .......)
-+ [1/18] CS229 Learning
++ [2/18] CS229 Learning
 + [0/18] CS230 Learning
 + [0/18] CS224 Learning
-+ [13/20] Fitness: Push Ups, Sit ups
++ [14/20] Fitness: Push Ups, Sit ups
 + [0/1] Lyric / Pieces Creation
-+ [13/20] Piano practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; triplets, 8th
++ [14/20] Piano practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; triplets, 8th
  notes, walking bass[2-5-1], ....)
