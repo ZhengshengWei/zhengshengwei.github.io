@@ -6,8 +6,21 @@ category: technology
 tags: []
 modify: 2016-01-02 00:00:00
 ---
-   When 
+   When encounter non-linear relationship problem, linear regression does not work. So locally 
+ weighted linear regression is coming out and could solve it.
+ 
+   What is locally weighted linear regression?
+   Locally weighted linear regression is non-parametric model. It doesn't learn a fixed set of 
+ parameters as is done in ordinary linear regression. Rather computing the parameters 
+ individually for each query point (input point).
+   The different between locally weighted linear regression and linear regression is that locally weighted 
+linear regression's cost function has one more parameter than ordinary linear regression. The 
+extra parameter called weight. Cost function is as follow:
+   J(θ) = w * (h(x) - y) ** 2
    
+   What is the meaning of weight in locally weighted linear regression? And how could we get the 
+weight?
+   todo: .....
    
    Why we use least square error in cost function to fit linear regression model? 
    There always exists variance in fitting model. Variance is consistent with Gaussian error 
