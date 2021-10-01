@@ -38,8 +38,8 @@ linear regression. Weight function is as follow:
  the points lying far away from query point.
    Here is locally weighted linear regression.
    
-   Let's talk about a question in linear regression article I wrote before. Why we use least square 
-error in cost function to fit linear regression model?
+   Let's talk about another question in linear regression article I wrote before. Why we use least 
+square error in cost function to fit linear regression model?
 
    There always exists variance in fitting model. Variance is consistent with Gaussian error 
  distribution. When expand Gaussian error formula, we'll finally get the result that least square
