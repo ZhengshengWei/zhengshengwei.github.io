@@ -29,6 +29,7 @@ update: 2021-03-09
   - [Out of Death]():
   - [The Suicide Squad]():
   - [Jungle Cruise]():
+  - [Free Guy](): Story about which How an NPC in a online game become a AI player 
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():

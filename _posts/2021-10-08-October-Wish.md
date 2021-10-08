@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021年十月月愿望清单"
+title: "2021年十月愿望清单"
 description: ""
 category: life
 tags: []
