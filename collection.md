@@ -30,6 +30,10 @@ update: 2021-03-09
   - [The Suicide Squad]():
   - [Jungle Cruise]():
   - [Free Guy](): Story about which How an NPC in a online game become a AI player 
+  - [Blue Bayou](): 
+  - [Old Henry]():
+  - [The Equalizer]():
+  - [The Equalizer II]():
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
