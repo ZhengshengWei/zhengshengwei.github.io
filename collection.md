@@ -30,7 +30,8 @@ update: 2021-03-09
   - [The Suicide Squad]():
   - [Jungle Cruise]():
   - [Free Guy](): Story about which How an NPC in a online game become a AI player 
-  - [Blue Bayou](): 
+  - [Blue Bayou](): Story about an asia refugee who adopted by American local for more than 30 
+  years was deported by American government
   - [Old Henry]():
   - [The Equalizer]():
   - [The Equalizer II]():
