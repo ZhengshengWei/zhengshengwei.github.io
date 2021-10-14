@@ -39,6 +39,7 @@ update: 2021-03-09
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
 + books
+  - [活法](): to read 
   - [金字塔原理](): to read 
   - [营销管理](): to read 
   - [马克 安德森的博客](pmarchive.com): to read 
