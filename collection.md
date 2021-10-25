@@ -35,6 +35,7 @@ update: 2021-03-09
   - [Old Henry]():
   - [The Equalizer]():
   - [The Equalizer II]():
+  - [Jack Reacher]():
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
