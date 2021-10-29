@@ -39,6 +39,7 @@ update: 2021-03-09
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
+  - [Reading paper follow Mu Li](https://github.com/mli/paper-reading):
 + books
   - [活法](): to read 
   - [金字塔原理](): to read 
