@@ -36,6 +36,8 @@ update: 2021-03-09
   - [The Equalizer]():
   - [The Equalizer II]():
   - [Jack Reacher]():
+  - [Shang-Chi]():
+  - [King Richard](): Story about venus williams's father how to raise two superstar tennis' daughter from their childhood.
 + series
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
