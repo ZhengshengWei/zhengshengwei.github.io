@@ -38,10 +38,11 @@ update: 2021-03-09
   - [Jack Reacher]():
   - [Shang-Chi]():
   - [King Richard](): Story about venus williams's father how to raise two superstar tennis' daughter from their childhood.
-+ series
++ series & documents
   - [The Last Dance(about Chicago Bulls)]():
   - [Asian Americans]():
   - [Reading paper follow Mu Li](https://github.com/mli/paper-reading):
+  - [Welcome to earth w/ Will Smith]():Will Smith travels to extreme end of earth.
 + books
   - [活法](): to read 
   - [金字塔原理](): to read 
@@ -53,6 +54,13 @@ update: 2021-03-09
   - [HWW: Product Manage of Internet in TsingHua](): Sense about Internet Product Evolving.  
 + media/course:
   - [Politics and Power in today's world by Yale]():
++ podcast:
+  - [How I built this]():
+  - [Smartless]():
+  - [Fresh Air]():
+  - [Lex Fridman Podcast]():
+  - [The Q interview]():
+  - [Greate moments in weed history]():
 + app/server
   - [Radio && Podcast](https://tunein.com/):Easy to access and be diversity.
   - [Ocenaudio](https://www.ocenaudio.com/):Easy, fast and powerful audio editor
