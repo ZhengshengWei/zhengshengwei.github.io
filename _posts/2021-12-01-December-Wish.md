@@ -17,6 +17,6 @@ modify: 2021-12-01 11:07:00
 + [0/18] CS224 Learning
 + [10/20] Fitness: Push Ups, Sit ups
 + [0/1] Lyric / Pieces Creation
-+ [13/20] Piano practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; triplets,
++ [14/20] Piano practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; triplets,
  8th
  notes, walking bass[2-5-1], ....)
