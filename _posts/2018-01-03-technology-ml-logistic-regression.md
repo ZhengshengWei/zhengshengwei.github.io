@@ -8,7 +8,8 @@ modify: 2016-01-03 00:00:00
 ---
    In the past articles, we've talked about real value prediction model with linear regression. 
 When the target prediction is binary classification, logistic regression is coming out.
-   Generally, real value is distributed Gaussian probability density. Binary value is distributed 
+
+   Generally, real value is distributed Gaussian probability density. Binary value(data) is distributed 
 Bernoulli probability density. Count value is distributed Poisson probability density. So binary
 classification is distributed Bernoulli probability density which is in Exponential family. 
    if massage Bernoulli probability density formula {P = p to x * (1−p) to (1−x)} to normal pattern of Exponential family, 
