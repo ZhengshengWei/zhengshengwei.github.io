@@ -3,7 +3,22 @@ layout: page
 title: 收藏
 ---
 
-update: 2021-03-09
+update: 2022-02-28
+
+### 2022
+
++ blogs
++ movies
+  - [American underdog]():A true story around Kurt Warner who is super sport star in NFL.
++ series & documents
++ books
++ media/course:
++ podcast:
+  - [Armchair Expert with Dax Shepard]():
++ app/server
+  - [pramp](https://www.pramp.com/#/): A great mock interview website.
+<br />
+<br />
 
 
 ### 2021
@@ -66,6 +81,5 @@ update: 2021-03-09
   - [Ocenaudio](https://www.ocenaudio.com/):Easy, fast and powerful audio editor
   - [drawio](https://app.diagrams.net/):Free online Diagram software for making flowcharts, 
   process diagrams, UML and so on.
-  - [pramp](https://www.pramp.com/#/): A great mock interview website.
 <br />
 <br />
