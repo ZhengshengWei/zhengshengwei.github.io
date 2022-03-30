@@ -15,7 +15,7 @@ modify: 2022-03-01 10:30:00
 + [4/18] CS229 Learning
 + [0/18] CS230 Learning
 + [0/18] CS224 Learning
-+ [7/20] Fitness: Push Ups, Sit ups
++ [8/20] Fitness: Push Ups, Sit ups
 + [0/1] Lyric / Pieces Creation
 + [6/20] Piano（Guitar） practice (blues, C/G Dominant Diminished, pentatonic, dorian, Bebop; 
 triplets,8th notes, arpeggio, traid, walking bass[2-5-1] ....)
