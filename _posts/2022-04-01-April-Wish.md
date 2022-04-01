@@ -12,6 +12,7 @@ modify: 2022-04-01 10:30:00
 
 + [0/3] NN Review (tensorflow)
 + [0/x] Neural Network Architecture Review(Attention, Transformer, Deep & Wide, LSTM, GRU .......)
++ [0/x] Paper Reading
 + [4/18] CS229 Learning
 + [0/18] CS230 Learning
 + [0/18] CS224 Learning
