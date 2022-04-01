@@ -8,6 +8,8 @@ update: 2022-02-28
 ### 2022
 
 + blogs
+  - [Paper-Reading with Mu Li](https://github.com/mli/paper-reading): Most valuable paper of deep
+   learning reading with Mu Li  
 + movies
   - [American underdog]():A true story around Kurt Warner who is super sport star in NFL.
 + series & documents
