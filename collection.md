@@ -13,6 +13,8 @@ update: 2022-02-28
   - [distill](https://distill.pub/): A Web dedicate to clear explanations of Machine Learning.  
 + movies
   - [American underdog]():A true story around Kurt Warner who is super sport star in NFL.
+  - [Extraction](): A mercenary rescued a kidnapped son of businessman in india. 
+  - [Den of thieves]():A bunch of guys tried to heist the largest reserved bank in LA.  
 + series & documents
 + books
 + media/course:
