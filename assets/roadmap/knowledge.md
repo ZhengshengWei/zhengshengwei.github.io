@@ -10,6 +10,7 @@ ENGLISH:
     Graph Neural Network
     Reinforce Learning
     interview online(pramp)
+    c++/java/linux/etc
     PodCast
 
 LANDING PROJECT:
