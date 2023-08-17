@@ -3,7 +3,22 @@ layout: page
 title: 收藏
 ---
 
-update: 2022-02-28
+update: 2023-08-19
+
+### 2023
+
++ blogs
++ movies
++ series & reality & documents
+  - [Hot Wheels](https://sflix.se/watch-tv/watch-hot-wheels-ultimate-challenge-hd-97228.9645562): Car fans transform ordinary vehicles into Hot Wheels.
+  - [Are you the one](https://sflix.se/watch-tv/watch-are-you-the-one-hd-37268.9287104): Dating experiment.
+  - [Survivor](https://sflix.se/watch-tv/watch-survivor-hd-39437.8973829): 
++ books
++ media/course:
++ podcast:
++ app/server
+    <br />
+    <br />
 
 ### 2022
 
