@@ -5,6 +5,23 @@ title: 收藏
 
 update: 2023-08-19
 
+### 2024
+
++ blogs
++ movies
++ series & reality & documents
+  - [The Traitors](https://sflix.se/watch-tv/watch-the-traitors-hd-92140.10237930): 
+  - [Shark Tank](https://sflix.se/watch-tv/watch-shark-tank-hd-39099.9953509): 
+  - [The Amazing Race](https://sflix.se/watch-tv/watch-the-amazing-race-hd-39051.10365103):
+  - [Below Deck](https://sflix.se/watch-tv/watch-below-deck-hd-38604.10290745):
++ books
++ media/course:
++ podcast:
++ app/server
+  <br />
+  <br />
+
+
 ### 2023
 
 + blogs
